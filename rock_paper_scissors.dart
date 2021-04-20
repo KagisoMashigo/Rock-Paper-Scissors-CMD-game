@@ -20,6 +20,7 @@ void main() {
   // random number generator
   final rng = Random();
 
+  // game loop
   while(true) {
 
     stdout.write("Rock, paper or scissors bruh? (r/p/s) ");
